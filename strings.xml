@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">connectdatabase</string>
+    <string name="str1">name :</string>
+    <string name="str2">password :</string>
+    <string name="str3">Login</string>
+    <string name="str4">register</string>
+    <string name="str5">type</string>
+</resources>
